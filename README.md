@@ -4,7 +4,7 @@ This is my first frontend mentor project just to try out the platform.
 
 About Frontend Mentor :
 
-Frontend Mentor is an online learning platform for frontend developers through challenges.
+Frontend Mentor is an online learning platform for frontend developers. Here you can pick challenges and try to complete them following the given instructions.
 After you complete a challange, you need to submit the solution.
 
 Link : https://www.frontendmentor.io/
